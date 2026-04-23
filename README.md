@@ -25,15 +25,6 @@ Actualmente trabajando con **Node.js · React · Flutter · AWS**.
  
 ---
  
-## 🚀 Proyectos destacados
- 
-### [farmaplus-inventory](https://github.com/kastlev/farmaplus-inventory)
-Sistema de gestión de inventarios para farmacia. Gestión de productos, ventas y alertas de stock bajo mínimos.
-`JavaScript` `MySQL`
- 
-> Más proyectos en camino — actualmente documentando trabajo previo en producción.
- 
----
  
 ## 📌 Sobre mí
  
